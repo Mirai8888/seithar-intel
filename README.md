@@ -33,6 +33,18 @@ This skill integrates with the Seithar Cognitive Defense Taxonomy (SCT-001 throu
 - [ThreatMouth](https://github.com/Mirai8888/ThreatMouth) — Threat intelligence Discord bot
 
 ────────────────────────────────────────────────────
+
+## CONNECT
+
+| Channel | Link |
+|---------|------|
+| Research Division Discord | [discord.gg/MktZyb2bvx](https://discord.gg/MktZyb2bvx) |
+| Mirai Junsei (未来純正) | [x.com/gOPwbi7qqtWeD9o](https://x.com/gOPwbi7qqtWeD9o) |
+| Seithar Group | [x.com/SeitharGroup](https://x.com/SeitharGroup) |
+| Research Archive | [seithar.substack.com](https://seithar.substack.com) |
+| Website | [seithar.com](https://seithar.com) |
+| GitHub | [github.com/Mirai8888](https://github.com/Mirai8888) |
+
 Seithar Group Intelligence & Research Division
 認知作戦 | seithar.com
 ────────────────────────────────────────────────────
